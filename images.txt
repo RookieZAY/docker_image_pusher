@@ -8,3 +8,5 @@ xhofe/alist:latest
 nginx-rtmp
 #支持私库
 tiangolo/nginx-rtmp:latest
+
+
