@@ -8,3 +8,4 @@ xhofe/alist:latest
 tiangolo/nginx-rtmp:latest
 
 darkfriday/nginx-flv
+
