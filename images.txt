@@ -12,3 +12,5 @@ darkfriday/nginx-flv
 openjdk:8-jre
 
 6053537/portainer-ce
+
+tdengine:latest
