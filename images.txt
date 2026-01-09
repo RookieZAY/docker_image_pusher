@@ -9,11 +9,11 @@ tiangolo/nginx-rtmp:latest
 
 darkfriday/nginx-flv
 
-openjdk:8-jre
+#openjdk:8-jre
 
-6053537/portainer-ce
+#6053537/portainer-ce
 
-tdengine:latest
+#tdengine:latest
 
 #流媒体服务器
 langhuihui/monibuca:v5
