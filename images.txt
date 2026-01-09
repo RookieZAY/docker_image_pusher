@@ -15,4 +15,5 @@ openjdk:8-jre
 
 tdengine:latest
 
+#流媒体服务器
 langhuihui/monibuca:v5
